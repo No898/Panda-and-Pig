@@ -1,6 +1,6 @@
 # Panda-and-Pig
 
-On way to understand more canvas i wrote this by Chris Courses 
+On way to understand more canvas i wrote this with help by  Chris Courses 
 
 link to his github and youtube tutorial </br>
 https://github.com/chriscourses/kings-and-pigs</br>
